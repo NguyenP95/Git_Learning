@@ -1,1 +1,1 @@
-Đây là file B.txt
+Sửa lại file B
